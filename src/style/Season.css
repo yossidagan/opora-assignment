@@ -1,0 +1,13 @@
+.seasonContainer .sendBtn {
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.seasonContainer .title {
+    padding: 15px 0;
+    font-size: 19px;
+}
+
+.seasonContainer .pickSeason {
+    padding: 10px 0;
+}

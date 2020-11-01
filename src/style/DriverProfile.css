@@ -1,0 +1,17 @@
+.driverProfileContainer {
+    padding: 40px 0;
+}
+
+.driverProfileContainer .title {
+    padding: 10px 0;
+    font-size: 19px;
+}
+
+.driverProfileContainer .pickDriver {
+    padding: 10px 0 20px;
+}
+
+.driverProfileContainer .getRacesBtn {
+    padding: 10px 0;
+    cursor: pointer;
+}
